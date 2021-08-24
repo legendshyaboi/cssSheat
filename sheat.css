@@ -1,0 +1,12 @@
+/* This is a cheat  sheet of frequenbtly used css styles in legend projects */
+
+
+
+
+/* this will alternate the colors of the directorys on LWW pages */
+.divBlockWrapper-listing-table:nth-child(even){
+	background-color: black;
+  }
+  .divBlockWrapper-listing-table:nth-child(odd){
+	background-color: grey;
+  }
